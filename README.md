@@ -1,2 +1,1 @@
-# coursera_courses
-This repository contains my answers to various courses on Coursera. 
+This repository contains my answers/notes to various courses about AI.
