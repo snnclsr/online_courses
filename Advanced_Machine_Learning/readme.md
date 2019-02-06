@@ -1,13 +1,13 @@
 [X] Introduction to Deep Learning
 
-[] How to Win a Data Science Competition: Learn from Top Kagglers
+[ ] How to Win a Data Science Competition: Learn from Top Kagglers
 
-[] Bayesian Methods for Machine Learning
+[ ] Bayesian Methods for Machine Learning
 
-[] Practical Reinforcement Learning (WIP)
+[ ] Practical Reinforcement Learning (WIP)
 
-[] Deep Learning in Computer Vision (WIP)
+[ ] Deep Learning in Computer Vision (WIP)
 
-[] Natural Language Processing
+[ ] Natural Language Processing
 
-[] Addressing Large Hadron Collider Challenges by Machine Learning
+[ ] Addressing Large Hadron Collider Challenges by Machine Learning
