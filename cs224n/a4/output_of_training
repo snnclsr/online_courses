@@ -1,0 +1,5 @@
+load test source sentences from [./en_es_data/test.es]
+load test target sentences from [./en_es_data/test.en]
+load model from model.bin
+Decoding: 100% 8064/8064 [05:03<00:00, 26.57it/s]
+Corpus BLEU: 22.529098263959252
